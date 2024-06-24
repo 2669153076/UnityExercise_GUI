@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\assets\\scripts\\base\\customguicontrolbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\base\\customguicontrolbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\assets\\scripts\\control\\customguibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\customguibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise_gui\\assets\\scripts\\testscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\assets\\scripts\\base\\customguiroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\base\\customguiroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\assets\\scripts\\base\\customguipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\base\\customguipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise_gui\\assets\\scripts\\control\\customguitexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\customguitexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\assets\\scripts\\control\\customguislider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\customguislider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\assets\\scripts\\control\\customguiinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\customguiinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\assets\\scripts\\control\\customguitoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\customguitoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\assets\\scripts\\control\\customguilabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\customguilabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\assets\\scripts\\control\\customguitogglegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF946334-9CFF-CB5A-5649-149B3D487BB3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\customguitogglegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomGUIControlBase.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Base\\CustomGUIControlBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Base\\CustomGUIControlBase.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Base\\CustomGUIControlBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Base\\CustomGUIControlBase.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:51:44.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestScript.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\TestScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TestScript.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\TestScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TestScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:16:54.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomGUIButton.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUIButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\CustomGUIButton.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUIButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\CustomGUIButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:26:42.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomGUIRoot.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Base\\CustomGUIRoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Base\\CustomGUIRoot.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Base\\CustomGUIRoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Base\\CustomGUIRoot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:10:57.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomGUIPos.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Base\\CustomGUIPos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Base\\CustomGUIPos.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Base\\CustomGUIPos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Base\\CustomGUIPos.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAIcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:25:24.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomGUITexture.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUITexture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\CustomGUITexture.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUITexture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\CustomGUITexture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:08:47.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomGUIInput.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUIInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\CustomGUIInput.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUIInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\CustomGUIInput.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:53:22.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomGUIToggle.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUIToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\CustomGUIToggle.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUIToggle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\CustomGUIToggle.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:31:10.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomGUISlider.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUISlider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\CustomGUISlider.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUISlider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\CustomGUISlider.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:57:24.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomGUILabel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUILabel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\CustomGUILabel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUILabel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\CustomGUILabel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:20:39.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomGUIToggleGroup.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUIToggleGroup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\CustomGUIToggleGroup.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_GUI\\Assets\\Scripts\\Control\\CustomGUIToggleGroup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\CustomGUIToggleGroup.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:39:53.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
